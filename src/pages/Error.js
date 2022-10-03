@@ -8,6 +8,7 @@ const Error = () => {
         <h1>oops! it's a dead end</h1>
         <Link to={'/'} className="btn btn-primary">
           back home
+          NOOOOO
         </Link>
       </div>
     </section>
