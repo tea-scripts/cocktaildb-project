@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <main>
       <SearchForm />
+      <H1>PHEW</H1>
       <CocktailList />
     </main>
   );
