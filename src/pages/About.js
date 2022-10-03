@@ -11,6 +11,7 @@ const About = () => {
         voluptatem veritatis vitae optio molestiae! Commodi eaque eligendi quia
         modi voluptatem ut sit dolore reprehenderit?
         TESTINGGGGGG
+        test2
       </p>
     </section>
   );
