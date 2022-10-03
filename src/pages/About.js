@@ -10,6 +10,7 @@ const About = () => {
         repudiandae totam maxime recusandae velit veniam ex voluptates nostrum,
         voluptatem veritatis vitae optio molestiae! Commodi eaque eligendi quia
         modi voluptatem ut sit dolore reprehenderit?
+        TESTINGGGGGG
       </p>
     </section>
   );
